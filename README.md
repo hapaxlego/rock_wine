@@ -1,6 +1,6 @@
 # rock_wine
 
-Rock_wine is a [rockstar](https://github.com/RockstarLang/rockstar) quine. As such it should not be confused with a Quine rockstar. Surprisingly enough it seem to work, at least on the [online interpreter](https://codewithrockstar.com/online) and [rocky](https://github.com/gaborsch/rocky) (if you can get the right number of trailing spaces from stout). Even more surprisingly it isn't the [first one](https://github.com/davidmilligan/rockstar). It is arguably one of the most underrated rockstar programs of all time (I bet it makes the top 100).
+Rock_wine is a simple [rockstar](https://github.com/RockstarLang/rockstar) quine. As such it should not be confused with a Quine rockstar. Surprisingly enough it seem to work, at least on the [online interpreter](https://codewithrockstar.com/online) and [rocky](https://github.com/gaborsch/rocky) (if you can get the right number of trailing spaces from stout). Even more surprisingly it isn't the [first one](https://github.com/davidmilligan/rockstar). It is arguably one of the most underrated rockstar programs of all time (I bet it makes the top 100).
 
 ## Methodology
 
